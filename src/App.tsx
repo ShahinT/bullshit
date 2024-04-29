@@ -35,7 +35,7 @@ function App() {
 
   return (
     <>
-      <div className="p-10">
+      <div>
 
         <RouterProvider router={router} />
       </div>
